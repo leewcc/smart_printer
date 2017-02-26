@@ -1,15 +1,10 @@
 *.class
 
-# Package Files #
-*.war
-*.ear
-
-.idea
-*.iml
-/smoke/src/test/
-/smoke/target/
-/smoke/smoke.iml
-
-.classpath
-.project
-.settings
+/*
+# ingore all but these
+!/src
+!/docs
+!.gitignore
+!README.md
+!pom.xml
+!test
