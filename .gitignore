@@ -3,7 +3,7 @@
 /*
 # ingore all but these
 !/src
-!/docs
+!/design_docs
 !.gitignore
 !README.md
 !pom.xml
